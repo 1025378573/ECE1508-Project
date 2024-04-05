@@ -19,4 +19,5 @@ To generate the resultant graphs in the paper:
 ```markdown
 python LLR.py
 ```
-
+Checkpoint files: 
+https://drive.google.com/drive/folders/1F-fZxuYSaRrhv3ky7aXd2jZIJJa4aJhd?usp=sharing
